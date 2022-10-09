@@ -54,10 +54,27 @@
 .con div {
     border: 1px black solid;
     padding: 5px;
+    width: 316px;
     margin-left: 10px;
     margin-right: 10px;
+    background-color: beige;
 }
 
 .con {
     display: flex;
+}
+
+.seven {
+    justify-content: flex-end;
+    flex: 1;
+}
+
+.eight {
+    flex: 1;
+    
+}
+
+.nine {
+    flex: 1;
+    
 }
