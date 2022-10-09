@@ -7,13 +7,15 @@
     display: flex;
 }
 .one {
+    background-color: aquamarine;
 
 }
 
 .two {
+    background-color: aqua;
 
 }
 
 .three {
-
+    background-color: blueviolet;
 }
