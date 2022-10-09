@@ -65,12 +65,11 @@
 }
 
 .seven {
-    justify-content: flex-end;
     flex: 1;
 }
 
 .eight {
-    flex: 1;
+    flex: 3;
     
 }
 
