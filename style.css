@@ -50,3 +50,14 @@
     flex: 1;
     order: 2;
 }
+
+.con div {
+    border: 1px black solid;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.con {
+    display: flex;
+}
