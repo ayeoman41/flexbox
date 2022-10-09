@@ -1,0 +1,19 @@
+.container div{
+    border: 1px black solid;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+}
+.one {
+
+}
+
+.two {
+
+}
+
+.three {
+
+}
