@@ -5,6 +5,8 @@
 
 .container {
     display: flex;
+    gap: 1rem;
+    flex-wrap: 1;
 }
 .one {
     font-family: 'Times New Roman', Times, serif;
@@ -20,4 +22,9 @@
 .three {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: blueviolet;
+}
+
+.contain div {
+    border: 1px black solid;
+    padding: 5px;
 }
