@@ -7,15 +7,17 @@
     display: flex;
 }
 .one {
+    font-family: 'Times New Roman', Times, serif;
     background-color: aquamarine;
-
 }
 
 .two {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: aqua;
 
 }
 
 .three {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: blueviolet;
 }
