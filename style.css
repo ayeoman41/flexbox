@@ -28,3 +28,25 @@
     border: 1px black solid;
     padding: 5px;
 }
+
+.contain {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    flex-wrap: 1;
+}
+
+.four {
+    flex: 1;
+    order: 3
+}
+
+.five {
+    flex: 1;
+    order: 1
+}
+
+.six {
+    flex: 1;
+    order: 2;
+}
